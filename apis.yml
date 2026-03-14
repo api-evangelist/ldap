@@ -1,0 +1,15 @@
+name: LDAP
+description: Lightweight Directory Access Protocol - an industry-standard protocol
+  for accessing and maintaining distributed directory information services over an
+  IP network. It plays a critical role in protecting organizational assets and maintaining
+  a strong security posture.
+url: https://ldap.com/
+tags:
+- Directory Services
+- Authentication
+- Protocol
+- Identity Management
+created: '2025'
+modified: '2025'
+apis: []
+common: []
