@@ -1,15 +1,39 @@
+aid: ldap
 name: LDAP
-description: Lightweight Directory Access Protocol - an industry-standard protocol
-  for accessing and maintaining distributed directory information services over an
-  IP network. It plays a critical role in protecting organizational assets and maintaining
-  a strong security posture.
-url: https://ldap.com/
+description: >-
+  LDAP (Lightweight Directory Access Protocol) is an industry-standard protocol
+  for accessing and maintaining distributed directory information services over
+  an IP network. It plays a critical role in protecting organizational assets
+  and maintaining a strong security posture through centralized authentication.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Directory Services
-- Authentication
-- Protocol
-- Identity Management
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - Directory Services
+  - Authentication
+  - Protocol
+  - Identity Management
+url: https://raw.githubusercontent.com/api-evangelist/ldap/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: ldap:ldap
+    name: LDAP
+    description: >-
+      Lightweight Directory Access Protocol for accessing and maintaining
+      distributed directory information services.
+    humanURL: https://ldap.com/
+    tags:
+      - Directory Services
+      - Authentication
+    properties:
+      - type: Documentation
+        url: https://ldap.com/
+common:
+  - type: Website
+    url: https://ldap.com/
+  - type: Documentation
+    url: https://ldap.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
