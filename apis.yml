@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Directory Services
   - Authentication
-  - Protocol
+  - Directory Services
   - Identity Management
+  - Protocol
 url: https://raw.githubusercontent.com/api-evangelist/ldap/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
       distributed directory information services.
     humanURL: https://ldap.com/
     tags:
-      - Directory Services
       - Authentication
+      - Directory Services
     properties:
       - type: Documentation
         url: https://ldap.com/
