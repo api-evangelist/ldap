@@ -47,6 +47,8 @@ apis:
       - type: Wikipedia
         url: https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 common:
+  - type: DomainSecurity
+    url: security/ldap-domain-security.yml
   - type: Website
     url: https://ldap.com/
   - type: Documentation
@@ -55,6 +57,8 @@ common:
     url: https://datatracker.ietf.org/doc/html/rfc4511
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
+  - url: https://ldap.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
