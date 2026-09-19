@@ -42,6 +42,15 @@ tags:
   - Identity Management
   - LDAP
   - Protocol
+  - SSO
+  - Standards
+tags_raw:
+  - Authentication
+  - Authorization
+  - Directory Services
+  - Identity Management
+  - LDAP
+  - Protocol
   - Single Sign-On
   - Standard
 url: https://raw.githubusercontent.com/api-evangelist/ldap/refs/heads/main/apis.yml
