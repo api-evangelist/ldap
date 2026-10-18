@@ -39,7 +39,7 @@ tags:
   - Authentication
   - Authorization
   - Directory Services
-  - Identity Management
+  - Identity and Access Management
   - LDAP
   - Protocol
   - SSO
@@ -67,6 +67,11 @@ apis:
       modifyDN operations carried over a connection-oriented transport.
     humanURL: https://ldap.com/
     tags:
+      - Authentication
+      - Directory Services
+      - Identity and Access Management
+      - Protocol
+    tags_raw:
       - Authentication
       - Directory Services
       - Identity Management
